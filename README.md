@@ -86,7 +86,7 @@ If you use this work, please cite:
 - **Alpha Agusah** - Design & editing
 
 ## 📬 Contact
-For any inquiries, contact **Ezra Yalley** at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, contact **Ezra Yalley** at [ezra.yalley@gmail.com](mailto:ezra.yalley@gmail.com).
 
 ---
 ✅ **Star this repo** ⭐ if you find it useful!
