@@ -79,7 +79,7 @@ If you use this work, please cite:
 > Ezra Yalley, Richard Sarpong, Samuel Twum, Abraham Kwame Adomako, Alpha Agusah. **Machine Learning-Based Phishing Detection in Healthcare.** Zenodo (Preprint), 2025. DOI: [10.5281/zenodo.15006246](https://doi.org/10.5281/zenodo.15006246)
 
 ## 🤝 Contributors
-- **Ezra Yalley** - Dataset analysis, implementation
+- **Ezra Yalley** - Dataset analysis, ML implementation
 - **Samuel Twum** - Manuscript drafting
 - **Richard Sarpong** - Dataset analysis
 - **Abraham Kwame Adomako** - Design & editing
