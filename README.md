@@ -73,17 +73,14 @@ Comparison of accuracy:
 ![image](https://github.com/user-attachments/assets/3e76aa3b-704d-4ec5-973a-6c735f1085ef)
 
 
+## 📚 Contribution Guidelines
+We welcome contributions! To contribute:
+1. **Fork** the repository.
+2. **Create a new branch** (`git checkout -b feature-name`).
+3. **Commit your changes** (`git commit -m 'Add new feature'`).
+4. **Push to GitHub** (`git push origin feature-name`).
+5. **Submit a Pull Request** for review.
 
-## 📜 Citation
-If you use this work, please cite:
-> Ezra Yalley, Richard Sarpong, Samuel Twum, Abraham Kwame Adomako, Alpha Agusah. **Machine Learning-Based Phishing Detection in Healthcare.** Zenodo (Preprint), 2025. DOI: [10.5281/zenodo.15006246](https://doi.org/10.5281/zenodo.15006246)
-
-## 🤝 Contributors
-- **Ezra Yalley** - Dataset analysis, ML implementation
-- **Samuel Twum** - Manuscript drafting
-- **Richard Sarpong** - Dataset analysis
-- **Abraham Kwame Adomako** - Design & editing
-- **Alpha Agusah** - Design & editing
 
 ## 📬 Contact
 For any inquiries, contact **Ezra Yalley** at [ezra.yalley@gmail.com](mailto:ezra.yalley@gmail.com).
