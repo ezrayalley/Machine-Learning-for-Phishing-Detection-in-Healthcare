@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+joblib
+requests
+beautifulsoup4
+whois
+tldextract
+scikit-learn
+validators   
+python-whois 
