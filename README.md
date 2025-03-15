@@ -4,7 +4,8 @@
 This project presents a **machine learning-based approach** to detect phishing attacks in healthcare systems. It explores various classification models, feature engineering techniques, and dataset evaluation to improve phishing detection accuracy.
 
 ## Web App for Real Time Phishing Detection
-![image](https://github.com/user-attachments/assets/08fc22c8-c314-4f3d-85fe-aa0f7909f9a0)
+![image](https://github.com/user-attachments/assets/06ba3ba7-32e0-45a4-beac-5aab939553c4)
+
 
 ## Project Workflow
 ![image](https://github.com/user-attachments/assets/1c5b2980-ce74-4e54-97e4-851dee1fcb78)
